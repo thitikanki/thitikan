@@ -3,7 +3,9 @@
 - 😄 My name is: Thitikan Kiatniyomdee
 - ⚡ Student id: 63361658
 - 🔭 I'm currently studying on Faculty of Engineering.
-
+-My career that i'm interested in future : Web Developer
+-My ability to program in different languages : Python , C# , HTML , JAVA
+-My Special aptitude, interest in computer engineering : Computer Networks , Data Structures
 ## Developer Tech
 
 ### Frameworks 
